@@ -34,8 +34,8 @@
 #define BLOCKS_IDS_SYNCHRONIZING_DEFAULT_COUNT          10000
 #define BLOCKS_SYNCHRONIZING_DEFAULT_COUNT              200
 #define CRYPTONOTE_PROTOCOL_HOP_RELAX_COUNT             3
-#define P2P_DEFAULT_PORT                                73842
-#define RPC_DEFAULT_PORT                                73843
+#define P2P_DEFAULT_PORT                                53842
+#define RPC_DEFAULT_PORT                                53843
 #define COMMAND_RPC_GET_BLOCKS_FAST_MAX_COUNT           1000
 #define P2P_LOCAL_WHITE_PEERLIST_LIMIT                  1000
 #define P2P_LOCAL_GRAY_PEERLIST_LIMIT                   5000
